@@ -48,7 +48,7 @@ To use this package, import it into your Go application:
 import "github.com/swarraaa/go-server-package.git"
 ```
 
-To checkout the example usage of the package, refer to the [example](github.com/swarraaa/go-server-package.git/USAGE.md) file.
+To checkout the example usage of the package, refer to the [example](https://github.com/swarraaa/go-server-package/blob/main/USAGE.md) file.
 
 ## Contribution
 
