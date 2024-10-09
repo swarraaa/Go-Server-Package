@@ -1,4 +1,4 @@
-module github.com/swarraaa/go-server-package.git
+module github.com/swarraaa/Go-Server-Package
 
 go 1.22.4
 
