@@ -37,7 +37,7 @@ This package is designed for developers who want to build a performant Go HTTP s
 To install this package, run:
 
 ```bash
-go get github.com/swarraaa/go-server-package.git
+go get -u github.com/swarraaa/Go-Server-Package
 ```
 
 ## Usage
@@ -45,7 +45,7 @@ go get github.com/swarraaa/go-server-package.git
 To use this package, import it into your Go application:
 
 ```bash
-import "github.com/swarraaa/go-server-package.git"
+import "github.com/swarraaa/Go-Server-Package"
 ```
 
 To checkout the example usage of the package, refer to the [example](https://github.com/swarraaa/go-server-package/blob/main/USAGE.md) file.
